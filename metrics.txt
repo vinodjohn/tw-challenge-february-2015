@@ -1,0 +1,15 @@
+CodePay Metrics :
+
+Measure downloads
+
+Track clicks of the code generator, which simply shows us the vitality of the application and 
+
+how much it is REALY used.
+
+Success rate of the transfers, to see the effectiveness of the app
+
+Length of the transfer, to see how long does it take for the users to enter the code
+
+Clicks on the drop down menu to change default bank account, to see if we need this button 
+
+at all.
